@@ -1,1 +1,2 @@
 My magic number is actually 3.141592653.
+My second magic number is c, the speed of light.
